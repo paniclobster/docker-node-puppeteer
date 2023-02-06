@@ -1,5 +1,5 @@
 # Base image
-FROM node:19.5.0-bullseye
+FROM node:19.6.0-bullseye
 
 # Upgrade base image
 RUN apt-get update \
