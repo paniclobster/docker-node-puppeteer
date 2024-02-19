@@ -1,5 +1,5 @@
 # Base image
-FROM node:21.6.1-bullseye
+FROM node:21.6.2-bullseye
 
 # Upgrade base image
 RUN apt-get update \
